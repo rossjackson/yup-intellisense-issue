@@ -15,5 +15,5 @@ type User = InferType<typeof userSchema>;
  * Control+Space (Mac) to see the intellisense here
  */
 const testUser: User = {
-
+  
 }
